@@ -8,7 +8,7 @@ print("The difference is " + str(num1 - num2))
 print("Multiplication of two numbers " + str(num1 * num2))
 print("Division of two numbers is " + str(round(num1 / num2, 2)))
 
-#Dealing with exponents
+#Dealing with exponent
 exponent = num1 ** num2
 print("\nThe exponent: " + str(round(exponent, 2)))
 
