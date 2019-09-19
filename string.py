@@ -18,7 +18,7 @@ print(last_name.lower() + " " + first_name.lower())
 
 #Checking if letters exist in a sentence
 stm = "Iam going to see the Santinos tonight"
-x = "oing" in stm
+x = "ing" in stm
 print(x)
 
 stm_2 = "Mount Kilimanjaro"
