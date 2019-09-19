@@ -6,7 +6,7 @@ cities_tz = ['mbeya', 'dar-Es-Salaam', 'tanga', 'mwanza', 'dodoma', 'arusha']
 #Sort the order of cities alphabetically
 cities_tz.sort()
 
-#reverse the order of the list alphabetically
+#reverse order of the list alphabetically
 cities_tz.sort(reverse = True)
 
 #adding one item at the end of the list
