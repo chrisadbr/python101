@@ -1,0 +1,3 @@
+The frst line of this program has a lot going on. Let’s start by looking
+at the open() function. To do any work with a fle, even just printing its 
+contents, you frst need to open the fle to access it. 
