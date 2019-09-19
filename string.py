@@ -9,7 +9,7 @@ print(first_name[0:5] + ' ' + last_name)
 #counting the number of characters
 print(len(first_name))
 
-#Convert variable to uppercase letters
+#Convert variable to an uppercase letter
 print(first_name.upper() + ' ' + last_name.upper())
 
 
