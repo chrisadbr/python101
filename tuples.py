@@ -27,6 +27,7 @@ for number in nums:
         even_nums.append(number)
 
 #create a tuple contains odd numbers
+
 odd_nums = tuple(odd_nums)
 #create a tuple contains even numbers
 even_nums = tuple(even_nums)
