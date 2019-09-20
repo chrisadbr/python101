@@ -5,6 +5,7 @@ def get_name(username):
     length = len(username)
 
     while length > 0:
+
         #Checks for the number of capital letters in a phrase
         if username[length - 1].isupper():
             cap_letters += 1
