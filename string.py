@@ -12,7 +12,6 @@ print(len(first_name))
 #Convert variable to an uppercase letter
 print(first_name.upper() + ' ' + last_name.upper())
 
-
 #Convert variable to lower case letters
 print(last_name.lower() + " " + first_name.lower())
 

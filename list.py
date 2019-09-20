@@ -22,18 +22,22 @@ for city in cities_tz:
         print("\nWelcome to " + city.title())
         print(city.title() + "'s nickname is 'green city'")
         print("Thanks, I had great time visiting " + city.title())
+
     elif city == 'mwanza':
         print("\nWelcome to " + city.title())
         print(city.title() + "'s nickname is 'rock city'")
         print("Thanks, I had great time visiting " + city.title())
+
     elif city == 'dodoma':
         print("\nWelcome to " + city.title())
         print(city.title() + "'s nickname is called the 'capital'")
         print("Thanks, I had great time visiting " + city.title())
+
     elif city == 'arusha':
         print("\nWelcome to " + city.title())
         print(city.title() + "'s nickname is 'chuga'")
         print("Thanks, I had great time visiting " + city.title())
+
     else:
         print("\nWelcome to " + city.title())
         print("Thanks, I had great time visiting " + city.title())
