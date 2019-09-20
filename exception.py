@@ -3,7 +3,6 @@ name = input('Enter your name: ')
 try:
     #prompt user for their age
     age = int(input('Enter your age: '))
-
     #checks user's age
     if age > 20:
         print(name.title() + ", you are old enough to drive now")
