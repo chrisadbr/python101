@@ -1,3 +1,4 @@
+#Guessing number game
 secret_number = 7 #assigned wiining number
 number_of_guesses = 3 #total number of guesses
 guess_count = 0
