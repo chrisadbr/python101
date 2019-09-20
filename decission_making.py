@@ -5,7 +5,8 @@ total_days = 20
 
 rate = (days_attended / total_days) * 100  #calculating attendance rate
 if (days_attended > 0) and (days_attended <= total_days):
-#testing attendace rate
+
+#testing attendace the rate
     if (rate >= 75) and (rate <= 100):
         print(name + " is allowed to sit for the final exam")
 
