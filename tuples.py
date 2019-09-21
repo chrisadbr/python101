@@ -5,6 +5,7 @@ print(food_menu)
 print("\nOur restaurant currently serves:")
 
 for food in food_menu:
+
     #replacing menu item with another item
     if food == 'ugali':
         food = "pizza"
