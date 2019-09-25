@@ -1,6 +1,6 @@
 #Dictionary that displays profile of a person
 profile = {
-    'first_name': 'juma',
+    'first_name': 'john',
     'last_name': 'rosan',
     'hobby': 'surfing',
     'age': 20,
